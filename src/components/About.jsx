@@ -15,12 +15,14 @@ const About = () => {
 					<div className="sm:text-right text-4xl font-bold">
 						<p>Hi. I'm Osman, nice to meet you. Please take a look around</p>
 					</div>
+
 					<div>
-						I am passionate about building excellent software that improves the
-						lives of those around me. I specialize in creating software for
-						clients ranging from individuals and small businesses all the way to
-						large enterprise corporations. What would you do if you had a
-						software expert available at your fingertips?
+						I'm excited about building things. I started my journey as a
+						self-taught developer 2 years ago. Over the years, I've cultivated
+						my passion for coding by building applications mainly using
+						JavaScript and React. I've discovered my obsession for the world of
+						web development and the beauty behind building powerful, aesthetic
+						websites.
 					</div>
 				</div>
 			</div>
