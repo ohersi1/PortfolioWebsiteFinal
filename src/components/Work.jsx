@@ -1,12 +1,10 @@
 import React from "react";
-import WorkImg from "../assets/projects/workImg.jpeg";
-import RealImg from "../assets/projects/realestate.jpg";
 import youtube from "../assets/youtube.png";
 import stripe from "../assets/stripe.png";
 import bankist from "../assets/bankist.png";
 import weather from "../assets/weather.png";
 import dice from "../assets/dice.png";
-import crypto from '../assets/crypto.png'
+import crypto from "../assets/crypto.png";
 
 const Work = () => {
 	return (
@@ -63,7 +61,10 @@ const Work = () => {
 										Demo
 									</button>
 								</a>
-								<a href="https://github.com/ohersi1/CryptoAppReact" target="_blank">
+								<a
+									href="https://github.com/ohersi1/CryptoAppReact"
+									target="_blank"
+								>
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
 										Code
 									</button>
