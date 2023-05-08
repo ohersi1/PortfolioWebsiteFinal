@@ -24,7 +24,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						<div>
-							<span className="text-2xl font-bold text-white tracking-wider">
+							<span className="text-2xl font-bold text-white  tracking-wider ">
 								Youtube Application
 							</span>
 							<div className="pt-8 text-center">
@@ -77,7 +77,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						<div>
-							<span className="text-2xl font-bold text-white tracking-wider">
+							<span className="text-2xl font-bold text-[#f46f] tracking-wider">
 								Stripe Clone
 							</span>
 							<div className="pt-8 text-center">
@@ -102,7 +102,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						<div>
-							<span className="text-2xl font-bold text-white tracking-wider">
+							<span className="text-2xl font-bold text-[#f46f] tracking-wider">
 								Fake Bank website
 							</span>
 							<div className="pt-8 text-center">
@@ -127,7 +127,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						<div>
-							<span className="text-2xl font-bold text-white tracking-wider">
+							<span className="text-2xl font-bold text-[#f46f] tracking-wider">
 								Weather Application
 							</span>
 							<div className="pt-8 text-center">
